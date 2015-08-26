@@ -1,0 +1,49 @@
+
+# DO NOT DELETE
+
+libAtlasUtils.so: AtlasUtils.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TGraphErrors.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TGraph.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TNamed.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TObject.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/Rtypes.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/RConfig.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/RVersion.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/DllImport.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/Rtypeinfo.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/snprintf.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/strlcpy.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TGenericClassInfo.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TSchemaHelper.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TStorage.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TVersionCheck.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/Riosfwd.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TBuffer.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TString.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TMathBase.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttLine.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttFill.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttMarker.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TVectorFfwd.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TVectorDfwd.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TFitResultPtr.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TGraphAsymmErrors.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TLine.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TLatex.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TText.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttText.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TMarker.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TPave.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TBox.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TH1.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAxis.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TAttAxis.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayD.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArray.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayC.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayS.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayI.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/TArrayF.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/Foption.h
+libAtlasUtils.so: /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/cintdictversion.h /grid_mnt/opt__exp_soft/cms/slc5_amd64_gcc462/lcg/root/5.32.00-cms21/include/RVersion.h
+libAtlasUtils__ROOTBUILDVERSION= 5.32/00
