@@ -1,0 +1,6 @@
+#duplicateOrigine=true
+./runTrackDUTanalyzer ./USC.00000307.0001.A.storageManager.00.0000.root /afs/cern.ch/work/c/chanon/Telescope/data/NtupleTelescope_918_TelResChanged.root output.root 0 300000 --TrackMatchRun NovBT
+
+#duplicateOrigin=false
+./runTrackDUTanalyzer ./USC.00000307.0001.A.storageManager.00.0000.root /afs/cern.ch/work/c/chanon/Telescope/data/NtupleTelescope_918.root output.root 0 300000 --TrackMatchRun NovBT
+
